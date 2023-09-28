@@ -23,6 +23,3 @@ We encountered several difficulties along the way. A major challenge arose from 
 ## Acknowledgments
 A special thanks to Mohammed Tarek for providing the FPGA and offering invaluable guidance throughout this incredible project.
 
-## GitHub Repository
-For source codes, simulations, and Python scripts, visit [insert your GitHub repository URL here].
-
